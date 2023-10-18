@@ -1,2 +1,21 @@
 <center>  <H1> PROYECTOS CON ARDUINO UNO <H/>
 
+<P>
+<H1> Dado electrónico <H1/> (nivel principiante)
+Empecemos con el primer proyecto: ¿quieres pasar la tarde de domingo jugando al parchís en familia, pero no tenéis dados? La placa de Arduino conectada a una estructura de siete LEDS podría salvarte la tarde.
+Solo pulsando un botón se inicia un generador aleatorio que utiliza las lamparitas para mostrar el resultado del 1 al 6 en un “dado electrónico”.
+En el siguiente artículo de blog se explican los pasos a seguir para crear este dado tan original. Asimismo, en el vídeo final podrás ver el resultado.
+
+<P>
+<H1> Sensor de distanciamiento social <H1/> (nivel principiante)
+
+Una idea de proyecto Arduino inspirada en la COVID-19 es el sensor de distancia social, perfecto para principiantes de Arduino.
+Un sensor de ultrasonidos conectado al microcontrolador hace que se encienda un LED cada vez que una persona se acerca a menos de 50 cm.
+Si la distancia vuelve a aumentar, el LED se apaga. En lo que a la programación respecta, este proyecto Arduino Uno se puede implementar con unas pocas líneas de código. 
+Sin embargo, para los que no carezcan de conocimientos en la materia, también está disponible online. El proyecto Arduino es ideal para construirse en casa.
+
+<P>
+<H1> Reloj de arena digital <H1/> (nivel intermedio)
+Una idea de proyecto Arduino con estilo para el hogar es crear un reloj de arena LED digital. Se utiliza una matriz de LEDs integrada para simular la caída de los granos de arena.
+El código que permite el funcionamiento del reloj de arena LED es un poco más complicado, pero se puede entender y descargar fácilmente si es necesario.
+Una sencilla carcasa de cartón oculta los circuitos de Arduino y garantiza que el reloj LED se convierta en toda una atracción.
