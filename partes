@@ -65,3 +65,6 @@ Permite identificar un dispositivo USB por el ordenador, es como su tarjeta de i
       
 <H1> (13) Botón de RESET </H1>
 Al presionarlo conectará temporalmente el pin de reset a tierra y reiniciará cualquier código que esté cargado en el micro-controlador de Arduino.  
+
+
+<a href="
